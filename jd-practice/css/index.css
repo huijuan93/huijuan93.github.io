@@ -1,0 +1,76 @@
+/*main部分start*/
+   .main-slider {
+       margin: 12px 0 0 220px;
+       float: left;
+       position: relative;
+   }
+    .main-slider ul {
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        margin-left: -66px;
+        
+    }
+    .main-slider li {
+        float: left;
+        height: 18px;
+        width: 18px;
+        background-color: #3E3E3E;
+        color: #fff;
+        text-align: center;
+        line-height: 18px;
+        margin: 0 2px;
+        border-radius: 9px;
+        cursor: pointer;
+    }
+    .main-slider .current {
+        background-color: #B61B1F;
+    }
+    .arrow a {
+        position: absolute;
+        top:50%;
+        font: 400 22px/62px "simsun";
+        width: 28px;
+        height: 62px;
+        color: #fff;
+        background: rgba(0,0,0,0.3);
+        text-align: center;
+
+    }
+    .arrow .arrow-left {
+        left: 0;
+    }
+    .arrow .arrow-right {
+        right: 0;
+    }
+    .arrow a:hover {
+        background: rgba(0,0,0,0.6);
+    }
+    .main-news {
+        float: right;
+    }
+    .main-news-faster {
+        height: 372px;
+        width: 248px;
+        border: 1px solid #E4E4E4 ;
+        margin: 12px 0 5px;
+    }
+    
+
+/*main部分end*/
+
+/*site-nav部分start*/
+/*site-nav部分end*/
+
+/*site-nav部分start*/
+/*site-nav部分end*/
+
+/*site-nav部分start*/
+/*site-nav部分end*/
+
+/*site-nav部分start*/
+/*site-nav部分end*/
+
+/*site-nav部分start*/
+/*site-nav部分end*/
+
